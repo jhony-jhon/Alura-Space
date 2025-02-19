@@ -98,7 +98,7 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para ma
 ## Contato
 
 - **Nome:** Jhony Jhon
-- **Email:** [seu-email@example.com](mailto:seu-email@example.com)
+- **Email:** [seu-email@example.com](mailto:joaobatistaok@hotmail.com)
 - **GitHub:** [jhony-jhon](https://github.com/jhony-jhon)
 
 ---
