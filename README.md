@@ -1,6 +1,6 @@
 # Alura Space
 
-![Alura Space Logo](https://via.placeholder.com/150)
+![Alura Space Logo](static/assets/logo/Logo(2).png)
 
 ## Índice
 
