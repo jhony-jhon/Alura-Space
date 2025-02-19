@@ -18,11 +18,11 @@ O **Alura Space** é um projeto desenvolvido para gerenciar e exibir uma galeria
 
 ## Tecnologias Utilizadas
 
-- [Python](https://www.python.org/)
-- [Django](https://www.djangoproject.com/)
-- [Bootstrap](https://getbootstrap.com/)
-- [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Instalação
 
@@ -98,9 +98,9 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para ma
 ## Contato
 
 - **Nome:** Jhony Jhon
-- **Email:** [joaobatistaok@hotmail.com](mailto:joaobatistaok@hotmail.com)
+- **Email:** [seu-email@example.com](mailto:seu-email@example.com)
 - **GitHub:** [jhony-jhon](https://github.com/jhony-jhon)
 
 ---
 
-Feito com ❤️ por Jhony Jhon junto com o instrutor da Alura: Bruno Divino
+Feito com ❤️ por Jhony Jhon juntamente com o instrutor da Alura durante o curso de desenvolvimento: Bruno Divino
