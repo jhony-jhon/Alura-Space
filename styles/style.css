@@ -164,6 +164,7 @@ table {
 }
 
 .card__info {
+    color: red;
     font-size: 1.2rem;
     padding: 0 1.5rem 1rem 1.5rem;
 }
